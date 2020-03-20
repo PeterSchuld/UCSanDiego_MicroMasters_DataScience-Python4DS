@@ -3,7 +3,7 @@ UCSanDiegoX: DSE200x (Summer 2018): Learn to use powerful, open-source, Python t
 
 #### Final Project: We use Pandas, Matplotlib and World Bank data to analyse CO2 emission trends worldwide ####
 
-Abstract: Early stage economic development depends on increasing CO2 emission-per-capita unless cheap and reliable alternatives to
+Early stage economic development depends on increasing CO2 emission-per-capita unless cheap and reliable alternatives to
 fossil fuel energy sources like coal are widely available. China’s produces 2/3 of its electricity with coal and her strong
 economic growth since the mid-1960’s is accompanied by accelerating CO2-per-capita growth up to levels of advanced European
 economies. France has shown a similar fossil fuel growth dependence in the 1960’s until she switched to nuclear power generation in
