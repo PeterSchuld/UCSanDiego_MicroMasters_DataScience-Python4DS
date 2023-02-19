@@ -2,13 +2,13 @@
 UCSanDiegoX: DSE200x (Summer 2018): Learn to use powerful, open-source, Python tools, including Pandas, Git and Matplotlib, to manipulate, analyze, and visualize complex datasets. 
 
 ![image](https://user-images.githubusercontent.com/59873708/219880732-edad3feb-71b6-4a9f-8241-bb560e07aac2.png)
-
 ### Instructors: 
 Ilkay Altintas, Chief Data Science Officer, San Diego Supercomputer Center (SDSC) 
 
 Leo Porter, Assistant Teaching Professor, Computer Science and Engineering, UC San Diego
 
-#### Final Project: We use Pandas, Matplotlib and World Bank data to analyse CO2 emission trends worldwide ####
+
+### Final Project: We use Pandas, Matplotlib and World Bank data to analyse CO2 emission trends worldwide ####
 
 Early stage economic development depends on increasing CO2 emission-per-capita unless cheap and reliable alternatives to
 fossil fuel energy sources like coal are widely available. China’s produces 2/3 of its electricity with coal and her strong
@@ -20,7 +20,8 @@ reliable electric energy is the key ingredient for economic growth. Technologica
 wind and solar should enable other developed economies and emerging economies to achieve sustainable economic growth while reducing
 CO2-emissions. 
 
-#### Course Outline ####
+
+### Course Outline ####
 
 The course is broken into 10 weeks.  The beginning of the course is heavily focused on learning the basic tools of data science, but we firmly believe that you learn the most about data science by doing data science.  So the latter half of the course is a combination of working on large projects and introductions to advanced data analysis techniques.
 
