@@ -1,9 +1,12 @@
 # UC San Diego MicroMasters DataScience-Python for Data Science
-UCSanDiegoX: DSE200x (Summer 2018): Learn to use powerful, open-source, Python tools, including Pandas, Git and Matplotlib, to manipulate, analyze, and visualize complex datasets. Instructors: Ilkay Altintas, Chief Data Science Officer, San Diego Supercomputer Center (SDSC) Leo Porter, Assistant Teaching Professor, Computer Science and Engineering, UC San Diego
+UCSanDiegoX: DSE200x (Summer 2018): Learn to use powerful, open-source, Python tools, including Pandas, Git and Matplotlib, to manipulate, analyze, and visualize complex datasets. 
 
 ![image](https://user-images.githubusercontent.com/59873708/219880732-edad3feb-71b6-4a9f-8241-bb560e07aac2.png)
 
+### Instructors: 
+Ilkay Altintas, Chief Data Science Officer, San Diego Supercomputer Center (SDSC) 
 
+Leo Porter, Assistant Teaching Professor, Computer Science and Engineering, UC San Diego
 
 #### Final Project: We use Pandas, Matplotlib and World Bank data to analyse CO2 emission trends worldwide ####
 
